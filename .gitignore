@@ -1,0 +1,10 @@
+# Local test and capture artifacts
+_debug.html
+_game_check.js
+_test_*.mjs
+_capture.mjs
+screenshot-*.png
+crop-*.png
+node_modules/
+.DS_Store
+Thumbs.db
